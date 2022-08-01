@@ -1,4 +1,6 @@
 #list[accessing element, replace, insert, sort,  pop, loop]
+#code to generate two different user inputed matrix and also adding them.
+#i.e. element at row1[0][0] will be added to only row2[0][0]
 
 m = int(input("Enter row: "))
 n = int(input("Enter column: "))
