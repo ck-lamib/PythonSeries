@@ -2,7 +2,6 @@
 This repo contains different folder that i created while learning my python journey
 ----------------------------------------------------------------------------------------------------
   What is python?
-
   Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
 ----------------------------------------------------------------------------------------------------
   It is used for:
